@@ -1,2 +1,2 @@
 # F115112106-SOC_HW1
-![螢幕擷取畫面 2025-04-16 154733](https://github.com/user-attachments/assets/2e0104cc-fa2c-47fa-b460-c925b8fdcb61)
+![螢幕擷取畫面 2025-04-16 154733](https://scontent.fkhh2-1.fna.fbcdn.net/v/t39.30808-6/838336561_2201081520817376_75109914108884835_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=XIOVelqN7FAQ7kNvwGbcVF8&_nc_oc=AdoK9xTAlaSuXb8f7qWYpmiwxb3qwIKfoCHONoT9uj0d2yTc00GgTzLWBZzgFLd98o2Yp7tiIioDPVnVWXMlD0ft&_nc_zt=23&_nc_ht=scontent.fkhh2-1.fna&_nc_gid=4ZtbGbhgPtLDd_vwcv5gUg&_nc_ss=7b2a8&oh=00_AQNVHam6SYF-dflPJabrbkfSoZry5lprX4Vp0w7476PgYA&oe=6AD61697))
